@@ -1,0 +1,3 @@
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/cmake-build-debug/CMakeFiles/Assignment_02.dir
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

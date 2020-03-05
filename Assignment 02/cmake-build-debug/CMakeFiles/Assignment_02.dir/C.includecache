@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF1.h
+stdio.h
+-
+
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF2.h
+
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF3.c
+MF3.h
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF3.h
+
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF3.h
+
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/main.c
+stdio.h
+-
+MF1.h
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF1.h
+MF2.h
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF2.h
+MF3.h
+C:/Users/masar/CLionProjects/CSC 295/Assignment 02/MF3.h
+
